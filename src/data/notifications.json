@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "type": "mention",
+    "message": "@you were mentioned in Project Alpha.",
+    "timestamp": "2024-06-22T10:15:00Z",
+    "read": false
+  },
+  {
+    "id": 2,
+    "type": "task",
+    "message": "Task 'Update Docs' assigned to you.",
+    "timestamp": "2024-06-22T09:45:00Z",
+    "read": false
+  },
+  {
+    "id": 3,
+    "type": "invite",
+    "message": "You have been invited to join Team Beta.",
+    "timestamp": "2024-06-21T18:30:00Z",
+    "read": true
+  },
+  {
+    "id": 4,
+    "type": "mention",
+    "message": "@you Check the new comment in Design Review.",
+    "timestamp": "2024-06-21T17:00:00Z",
+    "read": true
+  },
+  {
+    "id": 5,
+    "type": "task",
+    "message": "Task 'Fix Bug #123' assigned to you.",
+    "timestamp": "2024-06-21T15:20:00Z",
+    "read": false
+  }
+] 
