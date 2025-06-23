@@ -68,7 +68,7 @@ A modern, modular React-based notification platform UI that demonstrates real-ti
 ![Team Invite Read Filter](https://github.com/Mrunalgaikwad002/StreamNotify/blob/main/Team%20invite%20read%20filter.png?raw=true)
 ![Mentioned Unread Filter](https://github.com/Mrunalgaikwad002/StreamNotify/blob/main/Mentioned%20unread%20%20filter.png?raw=true)
 
-### Real-time Notifications
+### Real-time Notifications (Toastify)
 ![Toast Notification](https://github.com/Mrunalgaikwad002/StreamNotify/blob/main/Toastify%20notification.png?raw=true)
 
 ## How to Run
