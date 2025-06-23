@@ -43,7 +43,7 @@ const Dashboard = () => {
       };
       setNotifications(prev => [newNotification, ...prev]);
       toast(<ToastMessage type={newNotification.type} message={newNotification.message} />);
-    }, 10000); // Add a new notification every 10 seconds
+    }, 10000); // Adds a new notification every 10 seconds
 
     return () => clearInterval(interval); // Cleanup on unmount
   }, []);
