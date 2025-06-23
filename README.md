@@ -56,6 +56,21 @@ A modern, modular React-based notification platform UI that demonstrates real-ti
 - Uses `setInterval` in a `useEffect` to simulate polling for new notifications.
 - Each new notification triggers a toast popup and is added to the top of the list as unread.
 
+## Screenshots
+
+### Main Dashboard
+![StreamNotify Dashboard](https://github.com/Mrunalgaikwad002/StreamNotify/blob/main/StreamNotify.png?raw=true)
+
+### Filter Views
+![Read Filter](https://github.com/Mrunalgaikwad002/StreamNotify/blob/main/Read%20filter.png?raw=true)
+![Unread Filter](https://github.com/Mrunalgaikwad002/StreamNotify/blob/main/Unread%20filter.png?raw=true)
+![Task Filter](https://github.com/Mrunalgaikwad002/StreamNotify/blob/main/Task%20filter.png?raw=true)
+![Team Invite Read Filter](https://github.com/Mrunalgaikwad002/StreamNotify/blob/main/Team%20invite%20read%20filter.png?raw=true)
+![Mentioned Unread Filter](https://github.com/Mrunalgaikwad002/StreamNotify/blob/main/Mentioned%20unread%20%20filter.png?raw=true)
+
+### Real-time Notifications
+![Toast Notification](https://github.com/Mrunalgaikwad002/StreamNotify/blob/main/Toastify%20notification.png?raw=true)
+
 ## How to Run
 
 1. Install dependencies:
@@ -69,4 +84,4 @@ A modern, modular React-based notification platform UI that demonstrates real-ti
 
 ---
 
-**This project is a showcase of modern React UI patterns, state management, and user experience best practices for notification systems.**
+**This project is a showcase of modern React UI patterns, state management, and user experience best practices for notification systems.** 
